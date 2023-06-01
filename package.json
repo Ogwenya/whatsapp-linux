@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-linux",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+     "dev": "tauri dev",
+    "tauri": "tauri",
+    "rls": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.2.2"
+  }
+}
